@@ -1,0 +1,125 @@
+html {
+	padding: 0;
+	margin: 0;
+	}
+	
+	
+body {
+	background-image: url("kitty 2.jpg");
+	background-position: center;
+	background-size: cover;	
+	padding: 55px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	line-height: 16px;
+	background-color: #FEF9FD	;
+	text-align: center;
+	}
+	
+
+header {
+		
+		padding: 40px;
+		background-color: transparent;
+		
+		}
+		
+		
+nav {
+	margin-bottom: 30px;
+	float: left;
+	}
+	
+	
+main {
+	
+	clear: left;
+	padding-left: 60px;
+	}
+
+p {
+	color: white;
+	}
+
+	
+footer {
+	color: #FEF9FD;
+	background-color: transparent;
+	padding: 40px;
+	-webkit-border-radius: 0 0 15px 15px;
+	border-radius: 0 0 15px 15px;
+	}
+	
+h1 {
+	color: #FEF9FD;
+	font-size: 55px;
+	text-align: center;
+	}
+	
+h2 {
+	color: #BD87B0;
+	font-size: 21px;
+	margin-top: 14px;
+	margin-bottom: 7px;
+	text-align: center;
+	}
+	
+h3 {
+	margin-top: 14px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	}
+	
+content {
+	text-align: left;
+	}
+	
+footer p {
+	text-align: center;
+	}
+	
+nav ul li {
+	list-style-type: none;
+	float: none;
+	padding: 20px;
+	margin-right: 20px;
+	background-color: transparent;
+	}
+	
+nav li a {
+	text-decoration: none;
+	color: #F6F2F2;
+	padding: 10px;
+	}
+	
+nav li a:hover {
+	color: #000;
+	}
+	
+.job-title {
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+	}
+	
+.job-place {
+	font-style: italic;
+	padding: 0;
+	margin: 0;
+	}
+	
+.job-dates {
+	padding: 0;
+	margin: 0;
+	}
+	
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+	
+	
